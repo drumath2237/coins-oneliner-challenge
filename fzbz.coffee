@@ -1,0 +1,1 @@
+[1..100].forEach((i) => console.log if i%15==0 then "fizzbuzz" else if i%3==0 then "fizz" else if i%5==0 then "buzz" else i)
