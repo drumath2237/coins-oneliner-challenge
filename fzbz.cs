@@ -1,0 +1,1 @@
+﻿class _ { static void Main() => System.Linq.Enumerable.ToList(System.Linq.Enumerable.Range(1, 100)).ForEach((i) => System.Console.WriteLine((i % 3 == 0 ? "Fizz" : "") + (i % 5 == 0 ? "Buzz" : "") + (i % 3 != 0 && i % 5 != 0 ? i.ToString() : ""))); }
