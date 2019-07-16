@@ -1,0 +1,1 @@
+for i = 1 to 100 do if i mod 15 = 0 then Printf.printf "fizzbuzz\n" else if i mod 3 = 0 then Printf.printf "fizz\n" else if i mod 5 = 0 then Printf.printf "buzz\n" else Printf.printf "%d\n" i done;;
