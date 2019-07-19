@@ -20,6 +20,9 @@
 - Ruby 2.4.5p335
 - Python 3.5.2
 - CoffeeScript 1.10.0
+- OCaml 4.08.0
+- F# Interactive 10.2.3 for F# 4.5
+- Swift 5.0.1
 - (追記希望)
 
 ## Contributors(一人は恥ずかしいので追記していってください)
@@ -27,3 +30,7 @@
 **にー兄さん**  
 github: [@drumath2237](https://github.com/drumath2237)  
 twitter: [@ninisan_drumath](https://twitter.com/ninisan_drumath)  
+
+**檸檬茶**
+github: [@GCLemon](https://github.com/GCLemon)
+twitter: [@Hi_Coders](https://twitter.com/Hi_Coders)
