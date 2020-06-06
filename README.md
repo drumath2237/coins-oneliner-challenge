@@ -28,6 +28,7 @@
 - SBCL 1.4.5.debian
 - Perl v5.26.1
 - GNU Bash 4.4.20
+- (追記希望)
 
 ## Contributors(一人は恥ずかしいので追記していってください)
 
