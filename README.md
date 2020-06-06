@@ -24,6 +24,10 @@
 - F# Interactive 10.2.3 for F# 4.5
 - Swift 5.0.1
 - Rust 1.28.0
+- GNU Awk 4.1.4
+- SBCL 1.4.5.debian
+- Perl v5.26.1
+- GNU Bash 4.4.20
 - (追記希望)
 
 ## Contributors(一人は恥ずかしいので追記していってください)
@@ -35,3 +39,7 @@ twitter: [@ninisan_drumath](https://twitter.com/ninisan_drumath)
 **檸檬茶**  
 github: [@GCLemon](https://github.com/GCLemon)  
 twitter: [@Hi_Coders](https://twitter.com/Hi_Coders)  
+
+**haruna**  
+github: [@eggplants](https://github.com/eggplants)  
+twitter: [@egpl0](https://twitter.com/egpl0)  
